@@ -16,7 +16,7 @@ All my projects at [VK University](https://vk.com/vku)
 ##Weather
 
 Simple [weather app](https://github.com/La1c/WeatherApp) for travellers. 
-Practice with [Open Weather API](https://github.com/La1c/WeatherApp).
+Practice with [Open Weather API](https://github.com/La1c/WeatherApp) and TabBarController.
 <p align="center">
 <img src="https://github.com/La1c/WeatherApp/blob/master/screenshot1.png?raw=true" width="260">
 </p>
@@ -25,7 +25,7 @@ Practice with [Open Weather API](https://github.com/La1c/WeatherApp).
 
 [App](https://github.com/La1c/FriendsAbroad) which helps you to find your VK friends abroad and hang out with them!
 
-Practie with VK API and TabBarController.
+Practie with VK API and Maps.
 <p align="center">
 <img src="https://github.com/La1c/FriendsAbroad/blob/master/screenshot1.png?raw=true" width="260">
 </p>
